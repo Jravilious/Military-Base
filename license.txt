@@ -1,8 +1,0 @@
-Model Information:
-* title:	Game Ready - Army Base / Military Base
-* source:	https://sketchfab.com/3d-models/game-ready-army-base-military-base-1d5c8783446c4f6b85fafbadbc0e75d5
-* author:	OmegaRedZA (https://sketchfab.com/OmegaRedZA)
-
-Model License:
-* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
-* requirements:	Use only in connection with events that are newsworthy or of public interest
